@@ -10,6 +10,7 @@ function App() {
     //div or <> can be used to add multiple statements inside return
     <div>    
     <h1>Welcome to React</h1>
+    <h2>ThankYou</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
     Deserunt odit ducimus rerum voluptatem ab nesciunt, hic molestias dolore recusandae non autem, 
     atque velit deleniti, fuga alias harum consectetur repellendus numquam.</p>
